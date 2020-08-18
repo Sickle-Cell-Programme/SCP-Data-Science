@@ -1,2 +1,2 @@
 # SCP-Data-Science
-Sickle Cell Programme Data Science Kikapu
+Sickle Cell Programme Data Science Kapu
